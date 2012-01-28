@@ -1,6 +1,6 @@
 # encoding: utf-8
 
-class Pdf
+module PdfRenderer
   class RailsContext
     include ActionView::Helpers::TagHelper
     #include ActionView::Helpers::SanitizeHelper # <-- stupid broken coupling

@@ -8,6 +8,6 @@ unless defined? Gem::Version
   end
 end
 
-class Pdf
-  Version = Gem::Version.new("0.0.2")
+module PdfRenderer
+  Version = Gem::Version.new("0.0.3")
 end

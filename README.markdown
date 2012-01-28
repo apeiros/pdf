@@ -10,7 +10,7 @@ Summary
 Installation
 ------------
 From gem:
-`gem install i18nutil`
+`gem install pdfrenderer`
 
 Gem from source:
 `rm *.gem && gem build *.gemspec && gem install -l *.gem`
